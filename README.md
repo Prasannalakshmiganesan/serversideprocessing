@@ -118,10 +118,13 @@ h1 {
 ```
 
 ## OUTPUT:
-![OUTPUT](./images/output2.png)
+![output1](https://user-images.githubusercontent.com/118610231/212326192-5c8aefd0-2446-46b0-9719-a525a6e785e4.png)
+
 
 ### HOMEPAGE :
-![HOMEPAGE](./images/areapro.png)
+![output2](https://user-images.githubusercontent.com/118610231/212326099-cbe03a0b-8221-4f41-9fda-47298702ca67.png)
+
+
 
 
 ## Result:
